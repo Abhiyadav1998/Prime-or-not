@@ -2,12 +2,12 @@ package app_1;
 
 public class A
 {
-public static void main(String[]	args)	
+public static void main(String[] args)	
 {
 java.util.Scanner sc=new java.util.Scanner(System.in);
 System.out.println("enter number");
 int	n=sc.nextInt();
-int	i;
+int i;
 if(n==1)
 {
 System.out.println("Prime starts from 2");
